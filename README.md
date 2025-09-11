@@ -18,16 +18,11 @@ I have a good sense of aesthetics, allowing me to combine functionality and desi
 ## Frontend Developer
 
 <div>
-  <a href="https://github.com/ruanbarancelli">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Ícone clicável HTML5">
-  </a>
-  
-  <a href="https://github.com/ruanbarancelli">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Ícone clicável CSS3">
-  </a>
-  
-  <a href="https://github.com/ruanbarancelli">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Ícone clicável JavaScript">
-  </a>
-</div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Ícone clicável HTML5">
+    
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Ícone clicável CSS3">
 
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Ícone clicável JavaScript">
+</div><br>
+
+<img width="1536" height="1024" alt="ED4FF8D1-F0B0-44ED-830A-D071B6FED5BE" src="https://github.com/user-attachments/assets/283c2d00-cb52-4d3d-9906-0496c1a6d465" align=center/>
